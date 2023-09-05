@@ -9,16 +9,17 @@ const CONFIG = {
     linkedin: "",
     github: "koreji",
     instagram: "kuriirin__",
+    vndb: "Kurii",
   },
   projects: [
     {
-      name: `kuririn`,
+      name: `Kurii`,
       href: "https://github.com/koreji/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Kuririn",
+    title: "Kurii",
     description: "Welcome to Kuririn's blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
